@@ -27,10 +27,7 @@
 
 <p>Если приложение не запускается, возможна неполная установка Java (например отсутвие в перменной среды Path значения с папкой bin от Java) или устаревшая версия установленного JRE/JDK.</p>
 
-<ul>
-  <li>код - <a href="ch11/src/main/java/testing/Calculator.java">ch11/src/main/java/testing/Calculator.java</a></li>
-  <li>jar - <a href="jars/Calculator.jar">jars/Calculator.jar</a></li>
-</ul>
+<h1>Описание проета</h1>
 <p>Калькулятор позволякт:</p> 
 <ul>
   <li>
