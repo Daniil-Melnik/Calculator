@@ -1,13 +1,18 @@
 <h1>Применяемые разделы Java</h1>
 <ul>
   <li>Collections</li>
-  <li>I/O</li>
   <li>Exeptions</li>
-  <li>Time</li>
   <li>Lambda Expressions</li>
   <li>Swing</li>
   <li>Annotations</li>
   <li>Maven</li>
+</ul>
+
+<h1>Основные паттерны проектирования</h1>
+<ul>
+  <li>Мост</li>
+  <li>Строитель</li>
+  <li>Фабрика</li>
 </ul>
 
 <h1>ПО при разработке</h1>
